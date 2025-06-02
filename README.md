@@ -11,7 +11,7 @@ This project analyzes customer purchasing behavior to determine how many people 
 - `reader_factory.py`: Factory pattern implementation for reading different data sources.
 - `loader_factory.py`: Factory pattern implementation for loading data into various destinations.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
