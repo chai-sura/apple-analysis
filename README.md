@@ -14,6 +14,5 @@ This project analyzes customer purchasing behavior to determine how many people 
 ## Technologies Used
 
 - Python
-- Pandas
 - Databricks
 - Pyspark
